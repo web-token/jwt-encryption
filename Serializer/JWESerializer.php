@@ -16,9 +16,9 @@ namespace Jose\Component\Encryption\Serializer;
 use Jose\Component\Encryption\JWE;
 
 /**
- * Interface JWESerializaterInterface.
+ * Interface JWESerializer.
  */
-interface JWESerializerInterface
+interface JWESerializer
 {
     /**
      * The name of the serialization.
